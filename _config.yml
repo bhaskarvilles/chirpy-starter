@@ -75,10 +75,10 @@ theme_mode:   # [light|dark]
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
-img_cdn: 'https://github.com/bhaskarvilles/chirpy-starter/tree/main'
+img_cdn: 'https://github.com/bhaskarvilles/chirpy-starter/tree/main/chirpy-images/main'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/avatar.jpg'
+avatar: '/avathar/avatar.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
